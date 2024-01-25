@@ -1,0 +1,17 @@
+{
+    "name": "root/router-project",
+    "description": "Custom Router",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "asma-ab",
+            "email": "abichouasmaa@gmail.com"
+        }
+    ],
+    "require": {}
+}
